@@ -1,7 +1,7 @@
 /**
  *  Aeon Micro Smart Energy Switch
  *
- *  Copyright 2014 Chad Monroe (chad@monroe.io)
+ *  Copyright 2014 Chad Monroe (chad@monroe.io) - Originally built by SmartThings 
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
